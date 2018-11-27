@@ -1,14 +1,15 @@
 # OS1Pager: explaining open source software on one pager
 
 There still exist situations where we have only a few
-moments to explain what open source software is and
-what's its purpose. Imagine, you shall outline the main
-ideas of open source software to one of your managers.
+moments to explain what being open source software means 
+and what its purpose is. 
 
+Imagine - for example - you shall outline the main
+ideas of open source software to one of your managers.
 And you know: good managers want to get the information
 as condensed as possible. Moreover, if we do not give them
 what they need, they create their own summaries - which
-might not contain what really is important.
+might not meet what is really important.
 
 The better way than not to give them what they want
 is to give them what they want and what they need:
